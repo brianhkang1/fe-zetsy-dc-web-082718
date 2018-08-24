@@ -20,6 +20,5 @@ body {
 
 /* Write all remaining styles here */
 .wrapper h1 {
-  font: bold 3em 'Libre Baskerville', serif;
-  font-size: 48px;
+  font: normal 3em 'Libre Baskerville Bold', serif;
 }
