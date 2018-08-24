@@ -43,6 +43,10 @@ h2 {
   color: rgb(92,108,103);
 }
 
+img[alt="necklace"] {
+  
+}
+
 footer {
   text-align: right;
   font-size: 0.75em;
