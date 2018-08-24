@@ -19,10 +19,6 @@ body {
 }
 
 /* Write all remaining styles here */
-h1 {
-  font: normal 5em 'Libre Baskerville Bold', serif;
-}
-
 h1 a:link {
   font: normal 5em 'Libre Baskerville Bold', serif;
   text-decoration: none;
