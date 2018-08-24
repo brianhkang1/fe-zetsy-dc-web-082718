@@ -19,9 +19,12 @@ body {
 }
 
 /* Write all remaining styles here */
+h1 {
+  color: rgb(134,157,149,1);
+}
 h1 a:link {
   font: bold 2.65em 'Libre Baskerville Bold', serif;
-  font-color: rgb(134,157,149,1);
+  color: rgb(134,157,149,1);
   text-decoration: none;
 }
 
