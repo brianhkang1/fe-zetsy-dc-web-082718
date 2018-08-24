@@ -22,8 +22,8 @@ body {
 
 h1 a:link {
   font: bold 2.65em 'Libre Baskerville Bold', serif;
-  text-decoration: none;
   color: rgb(134,157,149);
+  text-decoration: none;
 }
 
 h1 {
