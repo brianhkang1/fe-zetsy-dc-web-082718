@@ -19,6 +19,6 @@ body {
 }
 
 /* Write all remaining styles here */
-h1 a{
+h1 + a{
   font: normal 100px 'Libre Baskerville Bold', serif;
 }
