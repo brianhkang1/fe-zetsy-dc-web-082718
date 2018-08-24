@@ -23,7 +23,8 @@ h1 {
   font: normal 5em 'Libre Baskerville Bold', serif;
 }
 
-a:link {
+h1 a:link {
+  font: normal 5em 'Libre Baskerville Bold', serif;
   text-decoration: none;
 }
 
