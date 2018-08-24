@@ -45,7 +45,8 @@ h2 {
 
 img[alt="necklace"] {
   border-style: solid;
-  border: 10px rgb(92,108,103);
+  border-width: 10px;
+  border-color: rgb(92,108,103);
 }
 
 footer {
