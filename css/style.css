@@ -21,4 +21,5 @@ body {
 /* Write all remaining styles here */
 .wrapper h1 {
   font-family: 'Libre Baskerville', serif;
+  font-size: 48px;
 }
