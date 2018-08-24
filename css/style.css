@@ -32,6 +32,12 @@ h1 a:visited {
   text-decoration: none;
 }
 
+h1 a:hover {
+  font: bold 2.65em 'Libre Baskerville Bold', serif;
+  color: rgb(92,108,103);
+  text-decoration: none;
+}
+
 h2 {
   font: bold 2em 'Libre Baskerville Bold', serif;
   color: rgb(92,108,103);
