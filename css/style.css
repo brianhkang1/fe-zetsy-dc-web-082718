@@ -33,8 +33,8 @@ h1 a:visited {
 }
 
 h2 {
-  font: bold 2em 'Libre Baskerville Bold', serif;
-  color: rgb(134,157,149);
+  font: normal 2em 'Libre Baskerville Bold', serif;
+  color: rgb(92,108,103);
 }
 
 footer {
