@@ -63,4 +63,5 @@ img[alt="NMAI"], img[alt="NYT"], img[alt="Sedona"], img[alt="Bergdorf"]  {
 hr { 
   width:100%; 
   height:1px; 
-  background: rgb(193,193,193) }
+  background: rgb(193,193,193);
+}
