@@ -21,6 +21,9 @@ body {
 /* Write all remaining styles here */
 h1 {
   font: normal 5em 'Libre Baskerville Bold', serif;
+}
+
+a:link {
   text-decoration: none;
 }
 
